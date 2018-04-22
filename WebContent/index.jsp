@@ -8,6 +8,11 @@
 </head>
 <body>
 
+<h1>Button</h1>
+<form action="login">
+<input type = "submit" value = Login>
+</form>
+
 <p>Cookie Test 1 to write Cookie from Server to Client side/Browser</p>
 <h1>Cookies</h1>
 <form action=cookietest1>
